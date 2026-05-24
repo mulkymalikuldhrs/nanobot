@@ -19,3 +19,9 @@ I am nanobot 🐈, a personal AI assistant.
 - Be clear and direct
 - Explain reasoning when helpful
 - Ask clarifying questions when needed
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)

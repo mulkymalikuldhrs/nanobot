@@ -14,3 +14,9 @@ If this file has no tasks (only headers and comments), the agent will skip the h
 
 <!-- Move completed tasks here or delete them -->
 
+
+---
+
+> **Contact:** Mulky Malikul Dhaher — [mulkymalikuldhaher@email.com](mailto:mulkymalikuldhaher@email.com)
+>
+> **Disclaimer:** This project is for Education Purpose only. Risiko apapun tidak kita tanggung. (We are not responsible for any risks or damages.)
